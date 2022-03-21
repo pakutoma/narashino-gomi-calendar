@@ -1,5 +1,3 @@
-# 令和4年度 習志野市ゴミ収集日カレンダー iCalデータ版（非公式）
-
 ## 利用上の注意
 習志野市が公開している [PDF版の収集日カレンダー](https://www.city.narashino.lg.jp/smph/kurashi/gomi/gomi/r4calendar.html) をiCal形式(RFC5545)にしたものです。  
 [プログラム](https://github.com/pakutoma/narashino-gomi-calendar) で自動生成しているため、間違いがあるかもしれません。  
