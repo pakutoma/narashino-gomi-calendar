@@ -3,7 +3,7 @@
 [プログラム](https://github.com/pakutoma/narashino-gomi-calendar) で自動生成しているため、間違いがあるかもしれません。  
 また、各データの動作はGoogleカレンダーでしか検証していません。  
 現状のまま提供され、無保証です。  
-間違いを見つけたらTwitter: @pakutoma まで教えてください。  
+間違いを見つけたら [Twitter](https://twitter.com/pakutoma) か [GitHub](https://github.com/pakutoma/narashino-gomi-calendar/issues) で教えてください。  
 Googleカレンダー版は [こちら](../)
 
 ### あ行
