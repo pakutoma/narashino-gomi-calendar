@@ -45,9 +45,9 @@ PLACES = {
     'yatumachi': '谷津町'
 }
 WORDS = {
-    'burnable': '燃えるごみの回収日',
-    'non-burnable': '燃えないごみの回収日',
-    'recyclable': '資源物の回収日',
-    'hazardous': '有害ごみの回収日'
+    'burnable': '燃えるごみの収集日',
+    'non-burnable': '燃えないごみの収集日',
+    'recyclable': '資源物の収集日',
+    'hazardous': '有害ごみの収集日'
 }
 AUTHOR = 'pakutoma'
