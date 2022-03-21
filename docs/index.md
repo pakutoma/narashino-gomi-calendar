@@ -1,4 +1,4 @@
-## 利用上の注意
+## 令和4年度 習志野市ゴミ収集日カレンダー Googleカレンダー版（非公式）
 習志野市が公開している [PDF版の収集日カレンダー](https://www.city.narashino.lg.jp/smph/kurashi/gomi/gomi/r4calendar.html) を、Googleカレンダーにしたものです。  
 [プログラム](https://github.com/pakutoma/narashino-gomi-calendar) で自動生成しているため、間違いがあるかもしれません。  
 現状のまま提供され、無保証です。  
