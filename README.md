@@ -12,5 +12,5 @@
 動かなかったら聞いてください。  
 
 ## Links
-- [令和4年度 習志野市ゴミ収集日カレンダー Googleカレンダー版（非公式）](https://pakutoma.github.io/narashino-gomi-calendar/)
-- [令和4年度 習志野市ゴミ収集日カレンダー iCal版（非公式）](https://pakutoma.github.io/narashino-gomi-calendar/ical/)
+- [令和5年度 習志野市ゴミ収集日カレンダー Googleカレンダー版（非公式）](https://pakutoma.github.io/narashino-gomi-calendar/)
+- [令和5年度 習志野市ゴミ収集日カレンダー iCal版（非公式）](https://pakutoma.github.io/narashino-gomi-calendar/ical/)
