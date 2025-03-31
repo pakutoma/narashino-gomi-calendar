@@ -67,8 +67,11 @@ def get_garbage_type_by_color(color: (int, int, int)) -> str:
     return list(con.CALENDAR_COLORS.keys())[np.argmin([distance(color, cc) for cc in con.CALENDAR_COLORS.values()])]
 
 
-def distance(color1: (int, int, int), color2: (int, int, int)) -> int:
-    return abs(color1[0] - color2[0]) + abs(color1[1] - color2[1]) + abs(color1[2] - color2[2])
+def distance(color1: (int, int, int), color2: (int, int, int)) -> float:
+    r_diff = float(color1[0]) - float(color2[0])
+    g_diff = float(color1[1]) - float(color2[1])
+    b_diff = float(color1[2]) - float(color2[2])
+    return (r_diff**2 + g_diff**2 + b_diff**2)**0.5
 
 
 def find_mode_color(image: Image) -> (int, int, int):
