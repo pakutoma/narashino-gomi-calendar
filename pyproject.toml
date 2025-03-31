@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "narashino-gomi-calendar"
+version = "0.1.0"
+description = "習志野市のゴミ収集日カレンダーをPDFからiCalに変換するツール"
+authors = [
+    {name = "pakutoma"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+license = {file = "LICENSE"}
+dependencies = [
+    "arrow~=0.14.7",
+    "numpy>=2.2.0",
+    "Pillow>=10.0.0",
+    "ics~=0.7",
+    "pdf2image~=1.16.0",
+]
+
+[project.scripts]
+narashino-gomi-calendar = "main:main"
+
+[tool.setuptools]
+packages = ["lib"] 

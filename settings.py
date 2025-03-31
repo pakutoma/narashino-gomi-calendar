@@ -1,3 +1,3 @@
 # settings
-POPPLER_PATH = '/opt/homebrew/opt/poppler/bin'  # Popplerのパス
-YEAR = 2023  # PDFの年度
+POPPLER_PATH = '/usr/sbin'  # Popplerのパス
+YEAR = 2025  # PDFの年度
